@@ -8,6 +8,6 @@ fn main() {
     println!("Done");
 
     println!("Running Part2...");
-    //day01::part2();
+    day01::part2();
     println!("Done");
 }
